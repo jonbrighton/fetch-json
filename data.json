@@ -1,0 +1,22 @@
+{
+  "guitars": [{
+      "name": "Chill",
+      "title": "Acoustic",
+      "medium": "Taylor",
+      "work": "images/taylar-acoustic.jpg"
+    },
+    {
+      "name": "old school",
+      "title": "bluegrass",
+      "medium": "Gibson",
+      "work": "images/steel-guitar.jpg"
+    },
+
+    {
+      "name": "rock",
+      "title": "electric",
+      "medium": "Fender",
+      "work": "images/electric.jpg"
+    }
+  ]
+}
